@@ -27,7 +27,6 @@ This repository documents my hands-on practice while building foundational Linux
 ## Networking Foundations – Phase 1
 
 ### What I Learned
-## What I Learned
 
 ### Networking Basics
 
