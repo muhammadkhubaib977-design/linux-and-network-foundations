@@ -23,3 +23,31 @@ This repository documents my hands-on practice while building foundational Linux
 
 - `nmap`
 - `htop`
+
+## Networking Foundations – Phase 1
+
+### What I Learned
+
+#### Network Types
+- LAN (Local Area Network)
+- WAN (Wide Area Network)
+- MAN (Metropolitan Area Network)
+- SOHO (Small Office / Home Office)
+- Public vs Private networks
+
+#### Data Transmission Types
+- Inferred data
+- Observed data
+- Volunteered data
+
+#### Transmission Mediums
+- Electrical (Copper cables)
+- Optical (Fiber cables)
+- Wireless (Radio waves)
+
+#### Performance Concepts
+- Bandwidth = Theoretical maximum data capacity
+- Throughput = Actual delivered data rate
+
+### Key Insight
+- Throughput is affected by latency, congestion, interference, and hardware limitations.
