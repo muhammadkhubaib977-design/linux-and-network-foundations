@@ -26,8 +26,6 @@ This repository documents my hands-on practice while building foundational Linux
 
 ## Networking Foundations – Phase 1
 
-### What I Learned
-
 ### Networking Basics
 
 - **Network Types:** LAN, WAN, MAN, SOHO, Public vs Private
