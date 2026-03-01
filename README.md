@@ -28,26 +28,13 @@ This repository documents my hands-on practice while building foundational Linux
 
 ### What I Learned
 
-#### Network Types
-- LAN (Local Area Network)
-- WAN (Wide Area Network)
-- MAN (Metropolitan Area Network)
-- SOHO (Small Office / Home Office)
-- Public vs Private networks
+####Networking Basics
+- Network Types: LAN, WAN, MAN, SOHO, Public vs Private
+- Data Transmission: Inferred, Observed, Volunteered
+- Transmission mediums: Electrical, Optical, Wireless
+- Bandwidth vs Throughput
 
-#### Data Transmission Types
-- Inferred data
-- Observed data
-- Volunteered data
-
-#### Transmission Mediums
-- Electrical (Copper cables)
-- Optical (Fiber cables)
-- Wireless (Radio waves)
-
-#### Performance Concepts
-- Bandwidth = Theoretical maximum data capacity
-- Throughput = Actual delivered data rate
-
-### Key Insight
-- Throughput is affected by latency, congestion, interference, and hardware limitations.
+####Networking Components
+- Client vs Server, Peer-to-Peer networks
+- Network Components (switches, routers, etc.)
+- ISPs: DSL, Cellular, Satellite, Dial-up
