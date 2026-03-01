@@ -27,14 +27,17 @@ This repository documents my hands-on practice while building foundational Linux
 ## Networking Foundations – Phase 1
 
 ### What I Learned
+## What I Learned
 
-####Networking Basics
-- Network Types: LAN, WAN, MAN, SOHO, Public vs Private
-- Data Transmission: Inferred, Observed, Volunteered
-- Transmission mediums: Electrical, Optical, Wireless
-- Bandwidth vs Throughput
+### Networking Basics
 
-####Networking Components
-- Client vs Server, Peer-to-Peer networks
-- Network Components (switches, routers, etc.)
-- ISPs: DSL, Cellular, Satellite, Dial-up
+- **Network Types:** LAN, WAN, MAN, SOHO, Public vs Private
+- **Data Transmission Methods:** Inferred, Observed, Volunteered
+- **Transmission Mediums:** Electrical, Optical, Wireless
+- **Bandwidth vs Throughput**
+
+### Networking Components
+
+- **Network Models:** Client–Server, Peer-to-Peer
+- **Network Devices:** Switches, Routers, etc.
+- **ISPs & Connection Types:** DSL, Cellular, Satellite, Dial-up
