@@ -23,18 +23,43 @@ This repository documents my hands-on practice while building foundational Linux
 
 - `nmap`
 - `htop`
+---
 
 ## Networking Foundations – Phase 1
 
 ### Networking Basics
 
-- **Network Types:** LAN, WAN, MAN, SOHO, Public vs Private
-- **Data Transmission Methods:** Inferred, Observed, Volunteered
-- **Transmission Mediums:** Electrical, Optical, Wireless
+- **Network Types:** LAN, WAN, MAN, SOHO, Public vs Private  
+- **Data Transmission Methods:** Inferred, Observed, Volunteered  
+- **Transmission Mediums:** Electrical, Optical, Wireless  
 - **Bandwidth vs Throughput**
+
+---
 
 ### Networking Components
 
-- **Network Models:** Client–Server, Peer-to-Peer
-- **Network Devices:** Switches, Routers, etc.
-- **ISPs & Connection Types:** DSL, Cellular, Satellite, Dial-up
+- **Network Models:** Client–Server, Peer-to-Peer  
+- **Network Devices:** Switches, Routers, etc.  
+- **ISPs & Connection Types:** DSL, Cellular, Satellite, Dial-up  
+
+---
+
+### Wireless Networking Overview
+
+- Wireless networks use **radio waves** to transmit data  
+- **Cellular Technologies:** GSM, 4G, 5G  
+
+---
+
+### Mobile Connectivity Technologies
+
+- **Wi-Fi**  
+- **Bluetooth**  
+- **NFC (Near Field Communication)**  
+
+---
+### Mobile Security Basics
+
+- Avoid using **plaintext credentials**  
+- Use a **VPN on public Wi-Fi networks**  
+- Use **WPA2 or higher encryption**
